@@ -4,7 +4,7 @@
 ;; Author: Clément Pit-Claudel <clement.pitclaudel@live.com>
 ;; URL: https://github.com/cpitclaudel/synquid-mode
 ;; Keywords: languages
-;; Package-Requires: ((flycheck "27"))
+;; Package-Requires: ((emacs "24.4") (flycheck "27"))
 ;; Version: 0.1
 
 ;; This program is free software; you can redistribute it and/or modify
